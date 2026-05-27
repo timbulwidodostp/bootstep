@@ -1,0 +1,27 @@
+.-
+help for ^bootstep^
+.-
+
+Two-step estimator with bootstrapped standard errors.
+----------------------
+
+ ^bootstep^
+ 
+Description
+-----------
+
+^avecr^ Two-step estimator with bootstrapped standard errors.
+     
+^Note:^ Requires bootstep.ado by Olah Data Semarang
+
+Examples
+--------
+
+ . ^qbootstep bootstep bootstep_1 | bootstep_2 bootstep_3 bootstep_4 bootstep_5 bootstep_6, nboot(1000) cluster(Id Year)^
+
+Author
+------
+
+      Timbul Widodo
+      Olah Data Semarang
+      https://www.youtube.com/@amalsedekah

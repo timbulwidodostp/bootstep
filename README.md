@@ -1,6 +1,8 @@
 # bootstep
 Two-step estimator with bootstrapped standard errors Use bootstep With STATA 19
 
+https://www.youtube.com/watch?v=zMb1wGtGLXY
+
 Olah Data Semarang
 
 WA: +6285227746673 (085227746673)
